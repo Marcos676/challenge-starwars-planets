@@ -1,4 +1,4 @@
-##CHALLENGE:
+## CHALLENGE:
 
 El presente es un test de nivelación, realizado con el fin de evaluar los conocimientos técnicos con tecnología React JS
 
@@ -11,14 +11,14 @@ La lista de planetas debe permitir también guardar uno o más planetas como fav
 La idea es subirlo a un repo en github y compartir el link una vez terminado.
 
 
-###React: 
+### React: 
 
 - componentes funcionales y hooks
 
 - usar context api si fuera necesario
 
 
-###Maquetado: 
+### Maquetado: 
 
 - Sobre la parte gráfica presentarlo a libre criterio
 
@@ -27,20 +27,22 @@ La idea es subirlo a un repo en github y compartir el link una vez terminado.
 - styled components o sass
 
 
-###Será un plus si agregas:
-- unit testing
-- typescript
+### Será un plus si agregas:
+- [ ] unit testing
 
-- graphql
+- [ ] typescript
 
-- async/await 
+- [ ] graphql
 
-- children props
+- [ ] async/await 
 
+- [ ] children props
 
-[1]: https://swapi.dev/documentation
+---
 
-[2]: https://swapi.dev/documentation#search
+[1] https://swapi.dev/documentation
+
+[2] https://swapi.dev/documentation#search
 
 [3]  https://graphql.org/swapi-graphql/
 
